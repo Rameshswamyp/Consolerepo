@@ -6,7 +6,7 @@ namespace datastructure
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Ramesh test  .....DesktopGit!");
+            Console.WriteLine("Hello Ramesh test  .....DesktopGit! Local repos....");
         }
     }
 }
