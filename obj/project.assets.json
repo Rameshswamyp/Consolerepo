@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ramesh Palani Swamy\\source\\repos\\datastructure\\datastructure\\datastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Ramesh Palani Swamy\\source\\repos\\ConsoleApps\\Consolerepo\\datastructure.csproj",
       "projectName": "datastructure",
-      "projectPath": "C:\\Users\\Ramesh Palani Swamy\\source\\repos\\datastructure\\datastructure\\datastructure.csproj",
+      "projectPath": "C:\\Users\\Ramesh Palani Swamy\\source\\repos\\ConsoleApps\\Consolerepo\\datastructure.csproj",
       "packagesPath": "C:\\Users\\Ramesh Palani Swamy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ramesh Palani Swamy\\source\\repos\\datastructure\\datastructure\\obj\\",
+      "outputPath": "C:\\Users\\Ramesh Palani Swamy\\source\\repos\\ConsoleApps\\Consolerepo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ramesh Palani Swamy\\AppData\\Roaming\\NuGet\\NuGet.Config",
